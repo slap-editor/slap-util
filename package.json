@@ -1,0 +1,26 @@
+{
+  "name": "slap-util",
+  "version": "1.0.0",
+  "description": "Miscellaneous code for slap-editor/slap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbkaplun/slap-util.git"
+  },
+  "author": "Dan Kaplun <dbkaplun@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbkaplun/slap-util/issues"
+  },
+  "homepage": "https://github.com/dbkaplun/slap-util#readme",
+  "dependencies": {
+    "bluebird": "^2.9.27",
+    "lazy.js": "^0.4.0",
+    "mkdirp": "^0.5.1",
+    "traverse": "^0.6.6",
+    "xtend": "^4.0.0"
+  }
+}
