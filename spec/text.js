@@ -2,12 +2,12 @@
 /*global require, global*/
 
 var test = require('tape');
-var text = require('../lib/text');
+var util = require('../.');
 
 test("util.text", function (t) {
   t.test(".splitLines", function (st) {
     var text = "This is a line.\rThis is another line.\r\nHere's a third line.\n";
-    var lines = text.splitLines(text);
+    var lines = util.text.splitLines(text);
 
     st.test("should split on varying line endings correctly", function (sst) {
       sst.plan(4);
