@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dbkaplun/slap-util.git"
+    "url": "git+https://github.com/slap-editor/slap-util.git"
   },
   "author": "Dan Kaplun <dbkaplun@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dbkaplun/slap-util/issues"
+    "url": "https://github.com/slap-editor/slap-util/issues"
   },
-  "homepage": "https://github.com/dbkaplun/slap-util#readme",
+  "homepage": "https://github.com/slap-editor/slap-util#readme",
   "dependencies": {
     "blessed": "^0.1.60",
     "bluebird": "^2.9.27",
