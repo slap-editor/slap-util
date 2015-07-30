@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/slap-editor/slap-util#readme",
   "dependencies": {
-    "blessed": "^0.1.60",
+    "blessed": "^0.1.15",
     "bluebird": "^2.9.27",
     "lodash": "^3.9.3",
     "longjohn": "^0.2.4",
