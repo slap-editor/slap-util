@@ -53,7 +53,7 @@ test("util.markup", function (t) {
               }
             }
             if (!closeOpen) {
-              sst.ok(markedUp.startsWith(tag));
+              sst.equal(markedUp.indexOf(tag), 0);
               markedUp = markedUp.slice(tag.length);
             }
           }
