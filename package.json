@@ -1,6 +1,6 @@
 {
   "name": "slap-util",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Miscellaneous code for slap-editor/slap",
   "main": "index.js",
   "scripts": {
